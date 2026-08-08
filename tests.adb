@@ -1,7 +1,5 @@
 -- tests.adb
 with Ada.Text_IO; use Ada.Text_IO;
-with Ada.Assertions; use Ada.Assertions;
-with Ada.Exceptions; use Ada.Exceptions;
 with Mark_And_Sweep; use Mark_And_Sweep;
 
 procedure Tests is
